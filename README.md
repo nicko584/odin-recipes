@@ -1,5 +1,5 @@
 # odin-recipes
  this is my first project on TOP 
 
- This is my second commit   
- fourth commit
+I will learn the basic of html 
+This includes formatting and implementing list, headings, paragraphs, images, and links 
